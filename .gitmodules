@@ -1,0 +1,3 @@
+[submodule "remindme"]
+	url = git@github.com:vidasaras/remindme.git
+	path = remindme
