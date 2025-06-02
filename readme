@@ -1,0 +1,30 @@
+Index
+-----
+
+1. bandwith.sh
+    prints out the bandwith usage from the moment the script was run
+    (Will add support to save bandwith usage and continue from that point)
+
+2. chrome-ext-dl.py
+    Download chrome extensions
+
+3. cliphis.sh
+    An implementation for storing and browsing clipboard history via dmenu
+
+4. clipmonitor.sh
+    Whenever a item is copied, stores them via cliphis.sh
+
+5. create-gh-repo.sh
+    Creates a github repo. (can be used as a qutebrowser userscript)
+
+6. mdP.sh
+    Renders markdown using Pandoc
+
+7. wifis.sh
+    Prints the current wifi status. If connected to a wifi prints out the SSID
+    of the wifi. If the connection has a IP prints out 1 otherwise 0.
+
+8. remindme/remindme.sh
+    A small script that lets you set reminders, countdowns, and Pomodoro focus
+    timers from your terminal.
+
